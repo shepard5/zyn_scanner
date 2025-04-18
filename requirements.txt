@@ -1,0 +1,6 @@
+opencv-python
+pyzbar
+requests
+beautifulsoup4
+selenium>=4.0.0
+webdriver-manager>=3.0.0
