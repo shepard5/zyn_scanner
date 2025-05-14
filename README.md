@@ -1,6 +1,6 @@
  # Zyn Container Code Scanner
 
- This utility extracts unique reward codes embedded in QR codes printed on the backs of empty Zyn containers from a video.
+ This utility is a meme tool submitted to Barstool - Extracting codes embedded in QR codes printed on the backs of empty Zyn containers from a video.
  Lay out multiple container backs, record a short video, and this script will detect and decode each QR code URL, then pull out the code after the last slash.
 
  ## Features
